@@ -1,5 +1,5 @@
 Instructions for Practice Project
-========================================
+======================================== =
 
 These instructions assume familiarity with Git and GitHub. If you are not comfortable with those tools, please complete Udacity's [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) course before proceeding. 
 
